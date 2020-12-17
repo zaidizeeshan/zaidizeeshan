@@ -1,4 +1,7 @@
-[![](https://github.com/zaidizeeshan/zaidizeeshan/blob/main/dino.gif)](#)
+<!-- [![](https://github.com/zaidizeeshan/zaidizeeshan/blob/main/dino.gif)](#)-->
+[![](https://github.com/zaidizeeshan/zaidizeeshan/blob/main/DevOps_Word_Cloud.jpg)](#)
+
+
 <hr></hr>
 <p align="center">
   <samp>
