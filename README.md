@@ -39,10 +39,10 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 <!--START_SECTION:waka-->
 ```text
 BashScript   56 mins         ██████████▒░░░░░░░░░░░░░░   41.42 % 
-AWS         28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Nagios         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+AWS         28 mins          █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Nagios         19 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 Other        15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-ELK Stack       15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+ELK Stack       15 mins      ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -59,11 +59,19 @@ ELK Stack       15 mins         ██▓░░░░░░░░░░░░░
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham" alt="zaidizeeshan" />
 
-<!-- --------------------------------------------------------------------------------------- -->
+
 
 [![](https://github.com/zaidizeeshan/zaidizeeshan/blob/main/DevOps_Word_Cloud.jpg)](#)
 
+### ∞ contributions in the last year
 
+| <img src="https://github.com/zaidizeeshan/zaidizeeshan/blob/main/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
+[Learn how we count contributions](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+
+<!-- --------------------------------------------------------------------------------------- -->
 <!-- 
 <hr></hr>
 <p align="center">
