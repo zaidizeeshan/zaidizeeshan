@@ -19,7 +19,7 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 
 - 🔥💻 I’m currently working on something cool :wink:;
 - :notebook: I’m currently learning complex use cases of Kubernetes... 😭; 
-- :sparkles: Favorite Tech: AWS, Python, Elk Stack, Python, Nagios, Linux ...;
+- :sparkles: Favorite Tech: AWS, BashScript, Docker, Ansible, Jenkins, SonarQube, Elk Stack, Python, Nagios, Linux ...;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@techie_zeeshan](https://twitter.com/techie_zeeshan);
 - :email:	zaidi.zeeshan@outlook.com <br>
