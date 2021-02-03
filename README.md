@@ -53,8 +53,9 @@ ELK Stack    15 mins       ██▓░░░░░░░░░░░░░░�
 ✅  Completed 477 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="zaidizeeshan"><a class="LI-simple-link" href='https://in.linkedin.com/in/zaidizeeshan?trk=profile-badge'>Zeeshan Zaidi</a></div>
+
+
+
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham" alt="zaidizeeshan" />
