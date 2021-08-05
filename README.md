@@ -64,13 +64,13 @@ ELK Stack    15 mins       ██▓░░░░░░░░░░░░░░�
 
 [![](https://github.com/zaidizeeshan/zaidizeeshan/blob/main/DevOps_Word_Cloud.jpg)](#)
 
-### ∞ contributions in the last year
+<!-- fake contribution.gif  ### ∞ contributions in the last year 
 
-| <img src="https://github.com/zaidizeeshan/zaidizeeshan/blob/main/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
+ TODO-IST:START| <img src="https://github.com/zaidizeeshan/zaidizeeshan/blob/main/contributions.gif" alt="Contributions" width="722px" height="112px" /> | 
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-[Learn how we count contributions](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+[Learn how we count contributions](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile) -->
 
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- 
