@@ -13,27 +13,31 @@
 
 Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-taught DevOps Engineer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/zaidizeeshan/zaidizeeshan/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/zaidizeeshan/zaidizeeshan/blob/main/code.gif?raw=true" width="500" height="320" /> 
   
 **Talking about Personal Stuffs:**
 
 - 🔥💻 I’m currently working on something cool :wink:;
-- :notebook: I’m currently learning complex use cases of Kubernetes... 😭; 
-- :sparkles: Favorite Tech: Linux, AWS, Git, Jenkins, SonarQube, Apache Jmeter, Ansible, Docker, Kubernetes, Apache JmMter, Shell Scripting, Python, Nagios, Elk Stack, ...;
+- :notebook: I’m currently learning complex use cases of Kubernetes and argoCD... 😭; 
+- :sparkles: Favorite Tech: Python, Terraform, K8s, Docker, Ansible, Jenkins, AWS, SonarQube, Apache Jmeter, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), ...;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@techie_zeeshan](https://twitter.com/techie_zeeshan);
 - :email:	zaidi.zeeshan@outlook.com <br>
 - :art: Portfolio: https://zaidizeeshan.blogspot.com <br>
 - :briefcase: LinkedIn: https://linkedin.com/in/zaidizeeshan <br>
-- 📝[Resume](https://drive.google.com/file/d/1XOCKYn2OsRF-bQZJUCDvrAgIlDksEnBC/view)
+- 📝[Resume (not updated)](https://drive.google.com/file/d/1XOCKYn2OsRF-bQZJUCDvrAgIlDksEnBC/view)
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/a78365e1ed698ba6441a91508591e863cf1f9590/topics/terraform/terraform.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
