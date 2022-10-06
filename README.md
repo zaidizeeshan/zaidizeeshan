@@ -18,8 +18,9 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 **Talking about Personal Stuffs:**
 
 - 🔥💻 I’m currently working on something cool :wink:;
-- :notebook: I’m currently learning complex use cases of Kubernetes, hashicorp waypoint and argoCD... 😭; 
-- :sparkles: Favorite Tech: Python, Terraform, vault, consul, K8s, Docker, Ansible, Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted, ...;
+- :notebook: I’m currently learning complex use cases of Kubernetes, custom pipeline for hashicorp waypoint. i.e. integrate snyk.io security scan between ci/cd plateform to automating end to end pipeline, fully automated end to end pipeline both for deploying the infrastructure as well as onboarding the services using consul, running several services using aws lambdas for being able to register a lambda service as part of consul connecting them with other service mesh services and argoCD... 😭; 
+- :sparkles: Favorite Tech: A/B testing, Single Pane of Glass for Data Observability which include logs, apm, siem, xdr, rum, distributed traces and synthetics testing, terraform drift detection, Python, Terraform, vault, consul, K8s, Docker, Ansible, Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, datadog, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted, ...;
+- :sparkles: Archive Tech: Python, Terraform enterprise, self managed vault, self managed consul, self managed boundry, K8s, Docker, Ansible, jar deployed on host and in container using nomad. Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted,  ...;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@techie_zeeshan](https://twitter.com/techie_zeeshan);
 - :email:	zaidi.zeeshan@outlook.com <br>
@@ -83,7 +84,7 @@ ELK Stack    15 mins       ██▓░░░░░░░░░░░░░░�
   <samp>
     Hi, I'm Zeeshan! 👋 <br>
     🔥 Delhi based DevOps Engineer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: AWS, Python, Elk Stack, Multi could integration expert, OWASP Zap, selenium, Python, Nagios, Linux ... <br>
+    :sparkles: Favorite Tech: cloud, Soc analysis, observability, Multi could integration, OWASP Zap, selenium, service mesh, web assembly, Linux ... <br>
     :notebook: I’m currently learning complex use cases of Kubernetes... 😭  <br>
     :email:	zaidi.zeeshan@outlook.com <br>
     :art: Portfolio: https://zaidizeeshan.blogspot.com <br>
@@ -100,7 +101,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about like dashboards to visualize and analyse data but you can't see the dashboard 24x7. so ehat is the solution? alerting is the solution...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
