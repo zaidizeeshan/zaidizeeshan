@@ -18,8 +18,8 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 **Talking about Personal Stuffs:**
 
 - 🔥💻 I’m currently working on something cool :wink:;
-- :notebook: I’m currently learning complex use cases of Kubernetes and argoCD... 😭; 
-- :sparkles: Favorite Tech: Python, Terraform, K8s, Docker, Ansible, Jenkins, AWS, SonarQube, Apache Jmeter, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), ...;
+- :notebook: I’m currently learning complex use cases of Kubernetes, hashicorp waypoint and argoCD... 😭; 
+- :sparkles: Favorite Tech: Python, Terraform, vault, consul, K8s, Docker, Ansible, Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted, ...;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@techie_zeeshan](https://twitter.com/techie_zeeshan);
 - :email:	zaidi.zeeshan@outlook.com <br>
