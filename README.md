@@ -83,7 +83,7 @@ ELK Stack    15 mins       ██▓░░░░░░░░░░░░░░�
   <samp>
     Hi, I'm Zeeshan! 👋 <br>
     🔥 Delhi based DevOps Engineer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: AWS, Python, Elk Stack, Python, Nagios, Linux ... <br>
+    :sparkles: Favorite Tech: AWS, Python, Elk Stack, Multi could integration expert, OWASP Zap, selenium, Python, Nagios, Linux ... <br>
     :notebook: I’m currently learning complex use cases of Kubernetes... 😭  <br>
     :email:	zaidi.zeeshan@outlook.com <br>
     :art: Portfolio: https://zaidizeeshan.blogspot.com <br>
