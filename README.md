@@ -63,7 +63,7 @@ ELK Stack    15 mins       ██▓░░░░░░░░░░░░░░�
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham" alt="zaidizeeshan" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham" alt="zaidizeeshan" />(#)
 
 
 
