@@ -26,7 +26,7 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 - :email:	zaidi.zeeshan@outlook.com <br>
 - :art: Portfolio: https://zaidizeeshan.blogspot.com <br>
 - :briefcase: LinkedIn: https://linkedin.com/in/zaidizeeshan <br>
-- 📝[Resume](https://drive.google.com/file/d/1n9DPW2UOvQWUQKXi3dYWqgnodXvjfzLU/view)
+- 📝[Resume](https://drive.google.com/file/d/1vJdfvdBJyLVAIyyvz4z0UEIsrbihqcxh/view?usp=sharing)
 
 **Languages and Tools:**  
 
