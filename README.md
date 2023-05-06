@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/zaidizeeshan/">
   <img align="left" alt="Zeeshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br >
 ![](https://visitor-badge.glitch.me/badge?page_id=zaidizeeshan.zaidizeeshan)
 
 <br />
