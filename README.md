@@ -12,9 +12,9 @@
 
 
 <br />
-🎯
+
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=zaidizeeshan" alt="zaidizeeshan"/>
+    🎯 <img src="https://komarev.com/ghpvc/?username=zaidizeeshan" alt="zaidizeeshan"/>
     <img src="https://wakatime.com/badge/user/4719ba27-7e5d-4a0e-8a46-ec4c3e264034.svg" alt="wakatime"/>
 </p>
 
@@ -150,11 +150,11 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 ⏱ **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-BashScript   56 mins       ██████████▒░░░░░░░░░░░░░░   41.42 % 
-AWS          28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Nagios       19 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Other        15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-ELK Stack    15 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Kubernetes   56 mins       ██████████▒░░░░░░░░░░░░░░   41.42 % 
+Argo CD      28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Groovy       19 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Grafana      15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Python       15 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -162,8 +162,8 @@ ELK Stack    15 mins       ██▓░░░░░░░░░░░░░░�
 <!-- TODO-IST:START -->
 🏆  1,018 Scripts           
 🌸  Completed 0 tasks today           
-✅  Completed 477 tasks so far           
-⏳  Longest streak is 10 days
+✅  Completed 500 tasks so far           
+⏳  Longest streak is 12 days
 <!-- TODO-IST:END -->
 
 
@@ -173,7 +173,6 @@ ELK Stack    15 mins       ██▓░░░░░░░░░░░░░░�
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham" alt="zaidizeeshan" />(#)
 <p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidizeeshan&theme=dark" alt="zaidizeeshan" />(#)  -->
 
-[![](https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham)](#)  
 [![](https://github-readme-streak-stats.herokuapp.com/?user=zaidizeeshan&theme=dark)](#)  
 
 
