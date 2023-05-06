@@ -41,9 +41,9 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 <br />
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis&perline=10)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=postman,regex,nginx&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=githubactions,regex,postman,nginx&perline=10)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,jenkins,githubactions,maven,selenium,docker,kubernetes,ansible&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,jenkins,maven,selenium,docker,kubernetes,ansible&perline=10)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,openstack,openshift&perline=10)](https://skillicons.dev)
 <br />
