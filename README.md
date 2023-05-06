@@ -11,6 +11,11 @@
 
 <br />
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=zaidizeeshan" alt="zaidizeeshan"/>
+    <img src="https://wakatime.com/badge/user/4719ba27-7e5d-4a0e-8a46-ec4c3e264034.svg" alt="wakatime"/>
+</p>
+
 Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-taught DevOps Engineer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/zaidizeeshan/zaidizeeshan/blob/main/code.gif?raw=true" width="500" height="320" /> 
