@@ -2,7 +2,7 @@
 
 
 <!-- [![](https://github.com/zaidizeeshan/zaidizeeshan/blob/main/dino.gif)](#)-->
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Oh, hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/techie_zeeshan">
   <img align="left" alt="Zeeshan Zaidi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -18,14 +18,20 @@
     <img src="https://wakatime.com/badge/user/4719ba27-7e5d-4a0e-8a46-ec4c3e264034.svg" alt="wakatime"/>
 </p>
 
-Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-taught DevOps Engineer 🚀 from India.
+Welcome to my GitHub profile, where you'll find all the cool things I've been up to as a DevOps engineer. 
 
+I'm [Zeeshan Zaidi!](https://zaidizeeshan.github.io/), a passionate self-taught DevOps Engineer 🚀 from India. That's right, I'm the kind of person who loves to tinker with servers, automate deployments, and generally make life easier for developers.
+As a DevOps engineer, I get to work with a wide range of technologies and tools, from cloud services and containerization to automation frameworks and monitoring solutions. And you know what? I love it all. There's just something so satisfying about getting everything to work together like a well-oiled machine.
+Of course, I'm never too far away from my trusty laptop - you never know when inspiration will strike. Let's face it, DevOps can be a bit of a pain sometimes. There are always new tools and technologies to learn, and keeping up with the latest trends can be a full-time job in and of itself.
+But hey, at least I get to wear a cape and call myself a "superhero of the cloud." Okay, maybe not. But I do feel pretty darn awesome when I'm configuring pipeline and setting up monitoring dashboards.
+And speaking of inspiration, my GitHub profile is a testament to my love of all things DevOps.- From deployment scripts to infrastructure as code, I've got it all. So if you're looking for someone who can automate your entire development process, look no further.
+In all seriousness, I love what I do. DevOps may be a bit of a grind sometimes, but there's nothing quite like the feeling of knowing that you've helped make someone's development process just a little bit easier. So if you're looking for a DevOps engineer who's equal parts sarcastic and skilled, you've come to the right place. Feel free to check out my GitHub profile and drop me a line if you want to chat. Let's build something amazing together!
   <img align="right" alt="GIF" src="https://github.com/zaidizeeshan/zaidizeeshan/blob/main/code.gif?raw=true" width="500" height="320" /> 
   
 **Talking about Personal Stuffs:**
 
 - 🔥💻 **I’m currently working on something cool** :wink:;
-- :notebook: I’m currently learning complex use cases of kubernetes, custom pipeline for hashicorp waypoint. i.e. integrate snyk.io security scan between ci/cd plateform to automating end to end pipeline, fully automated end to end pipeline both for deploying the infrastructure as well as onboarding the services using consul, running several services using aws lambdas for being able to register a lambda service as part of consul connecting them with other service mesh services and argoCD... 😭; 
+- :notebook: I’m currently learning complex use cases of kubernetes, custom pipeline for hashicorp waypoint. i.e. integrate snyk.io security scan between ci/cd plateform to automating end to end pipeline, fully automated end to end pipeline both for deploying the infrastructure as well as onboarding the services using consul, running several services using aws lambda for being able to register a lambda service as part of consul connecting them with other service mesh services and argoCD... 😭; 
 - :sparkles: **Favorite Tech:** <p>
     <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" alt="ARGO CD">
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="KUBERNETES">
@@ -69,8 +75,8 @@ A/B testing, Single Pane of Glass for Data Observability which include logs, apm
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="JENKINS">   
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="JIRA">    
 </p>
-
-Python, Terraform enterprise, self managed vault, self managed consul, self managed boundry, K8s, Docker, Ansible, jar deployed on host and in container using nomad. Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted,  ...;
+<!--
+Python, Terraform enterprise, self managed vault, self managed consul, self managed boundry, K8s, Docker, Ansible, jar deployed on host and in container using nomad. Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted,  ...;   -->
 - 💬 **Ask me about anything, I am happy to help; **
 - 📫 How to reach me: [@techie_zeeshan](https://twitter.com/techie_zeeshan);
 - :email:	zaidi.zeeshan@outlook.com <br>
@@ -127,7 +133,7 @@ Python       15 mins       ██▓░░░░░░░░░░░░░░�
 
 
 
-📈📊 My GitHub Stats 
+📈📊 **My GitHub Stats :**
 <!--
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham" alt="zaidizeeshan" />(#)
 <p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidizeeshan&theme=dark" alt="zaidizeeshan" />(#)  -->
