@@ -37,7 +37,7 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 
 🛠️ **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,py,flask,java&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,py,flask,java,php,nodejs&perline=10)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis&perline=10)](https://skillicons.dev)
 <br />
@@ -45,11 +45,9 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 <br />
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,openstack,openshift&perline=10)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=kafka,regex,prometheus,grafana,sentry&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,regex,nginx&perline=10)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=postman,nginx&perline=10)](https://skillicons.dev)
-<br />
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka,prometheus,grafana,sentry&perline=10)](https://skillicons.dev)
 
 <!--
 https://github.com/tandpfun/skill-icons/blob/main/readme.md
