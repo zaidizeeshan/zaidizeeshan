@@ -12,7 +12,7 @@
 
 
 <br />
-
+🎯
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=zaidizeeshan" alt="zaidizeeshan"/>
     <img src="https://wakatime.com/badge/user/4719ba27-7e5d-4a0e-8a46-ec4c3e264034.svg" alt="wakatime"/>
@@ -147,7 +147,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/a78365e1ed698ba6441a91508591e863cf1f9590/topics/terraform/terraform.png"></code>
 -->
 
-📊 **This Week I Spent My Time On:**
+⏱ **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 BashScript   56 mins       ██████████▒░░░░░░░░░░░░░░   41.42 % 
@@ -168,11 +168,11 @@ ELK Stack    15 mins       ██▓░░░░░░░░░░░░░░�
 
 
 
-📈 My GitHub Stats
+📈📊 My GitHub Stats 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham" alt="zaidizeeshan" />(#)
-
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham" alt="zaidizeeshan" />(#)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidizeeshan&theme=dark" alt="zaidizeeshan" />(#)  
+  
 
 [![](https://github.com/zaidizeeshan/zaidizeeshan/blob/main/DevOps_Word_Cloud.jpg)](#)
 
