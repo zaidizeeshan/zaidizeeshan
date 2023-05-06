@@ -77,7 +77,8 @@ A/B testing, Single Pane of Glass for Data Observability which include logs, apm
 </p>
 <!--
 Python, Terraform enterprise, self managed vault, self managed consul, self managed boundry, K8s, Docker, Ansible, jar deployed on host and in container using nomad. Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted,  ...;   -->
-- 💬 **Ask me about anything, I am happy to help; **
+
+** 💬 Ask me about anything, I am happy to help; ** 
 - 📫 How to reach me: [@techie_zeeshan](https://twitter.com/techie_zeeshan);
 - :email:	zaidi.zeeshan@outlook.com <br>
 - :briefcase: LinkedIn: https://linkedin.com/in/zaidizeeshan <br>
