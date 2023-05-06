@@ -35,7 +35,7 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 - :briefcase: LinkedIn: https://linkedin.com/in/zaidizeeshan <br>
 - 📝[Resume](https://drive.google.com/file/d/1vJdfvdBJyLVAIyyvz4z0UEIsrbihqcxh/view?usp=sharing)
 
-**Languages and Tools:**  
+🛠️ **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
