@@ -30,7 +30,9 @@ But hey, at least I get to wear a cape and call myself a "superhero of the cloud
 
 And speaking of inspiration, my GitHub profile is a testament to my love of all things DevOps.- From deployment scripts to infrastructure as code, I've got it all. So if you're looking for someone who can automate your entire development process, look no further. <br />
 
-In all seriousness, I love what I do. DevOps may be a bit of a grind sometimes, but there's nothing quite like the feeling of knowing that you've helped make someone's development process just a little bit easier. So if you're looking for a DevOps engineer who's equal parts sarcastic and skilled, you've come to the right place. Feel free to check out my GitHub profile and drop me a line if you want to chat. Let's build something amazing together! <br />
+In all seriousness, I love what I do. DevOps may be a bit of a grind sometimes, but there's nothing quite like the feeling of knowing that you've helped make someone's development process just a little bit easier. 
+
+So if you're looking for a DevOps engineer who's equal parts sarcastic and skilled, you've come to the right place. Feel free to check out my GitHub profile and drop me a line if you want to chat. Let's build something amazing together! <br />
   <img align="right" alt="GIF" src="https://github.com/zaidizeeshan/zaidizeeshan/blob/main/code.gif?raw=true" width="500" height="320" /> 
   
 **Talking about technical stuff:**
