@@ -49,6 +49,8 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 <br />
 [![My Skills](https://skillicons.dev/icons?i=kafka,prometheus,grafana,sentry&perline=10)](https://skillicons.dev)
 
+    <a href="https://www.hackerrank.com/codeperfectplus"><img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" alt="Argo CD"></a>
+
 <!--
 https://github.com/tandpfun/skill-icons/blob/main/readme.md
 https://github.com/alexandresanlim/Badges4-README.md-Profile
