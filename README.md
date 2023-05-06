@@ -169,13 +169,14 @@ ELK Stack    15 mins       ██▓░░░░░░░░░░░░░░�
 
 
 📈📊 My GitHub Stats 
-
+<!--
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham" alt="zaidizeeshan" />(#)
-<p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidizeeshan&theme=dark" alt="zaidizeeshan" />(#)  
-  
+<p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidizeeshan&theme=dark" alt="zaidizeeshan" />(#)  -->
+
+[![](https://github-readme-stats.vercel.app/api?username=zaidizeeshan&show_icons=true&theme=gotham)](#)  
 [![](https://github-readme-streak-stats.herokuapp.com/?user=zaidizeeshan&theme=dark)](#)  
 
-[![](https://github.com/zaidizeeshan/zaidizeeshan/blob/main/DevOps_Word_Cloud.jpg)](#)
+
 
 <!-- fake contribution.gif  ### ∞ contributions in the last year 
 
