@@ -7,9 +7,7 @@
   <img align="left" alt="Zeeshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=zaidizeeshan.zaidizeeshan)
 
-<br />
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=zaidizeeshan" alt="zaidizeeshan"/>
