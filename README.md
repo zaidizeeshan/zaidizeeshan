@@ -38,7 +38,7 @@ So if you're looking for a DevOps engineer who's equal parts sarcastic and skill
 **Talking about technical stuff:**
 
 - 🔥💻 **I’m currently working on something cool** :wink:;
-- :notebook: I’m currently learning complex use cases of kubernetes, custom pipeline for hashicorp waypoint. i.e. integrate snyk.io security scan between ci/cd plateform to automating end to end pipeline, fully automated end to end pipeline both for deploying the infrastructure as well as onboarding the services using consul, running several services using aws lambda for being able to register a lambda service as part of consul connecting them with other service mesh services and argoCD... 😭; 
+- :notebook: I’m currently learning complex use cases of kubernetes, custom pipeline for hashicorp waypoint. i.e. integrate snyk.io security scan with Argo CD, fully automated end to end pipeline for onboarding the services for being able to register a lambda service as part of consul connecting them with other service mesh services and argoCD... 😭; 
 - :sparkles: **Favorite Tech:** <p>
     <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" alt="ARGO CD">
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="KUBERNETES">
