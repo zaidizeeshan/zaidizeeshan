@@ -112,11 +112,11 @@ A/B testing, Single Pane of Glass for Data Observability which include logs, apm
 </p>
 
 Python, Terraform enterprise, self managed vault, self managed consul, self managed boundry, K8s, Docker, Ansible, jar deployed on host and in container using nomad. Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted,  ...;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 **Ask me about anything, I am happy to help; **
 - 📫 How to reach me: [@techie_zeeshan](https://twitter.com/techie_zeeshan);
 - :email:	zaidi.zeeshan@outlook.com <br>
-- :art: Portfolio: https://zaidizeeshan.blogspot.com <br>
 - :briefcase: LinkedIn: https://linkedin.com/in/zaidizeeshan <br>
+- :art: Portfolio: https://zaidizeeshan.blogspot.com <br>
 - 📝[Resume](https://drive.google.com/file/d/1vJdfvdBJyLVAIyyvz4z0UEIsrbihqcxh/view?usp=sharing)
 
 🛠️ **Languages and Tools:**  
@@ -161,7 +161,7 @@ Python       15 mins       ██▓░░░░░░░░░░░░░░�
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  1,018 Scripts           
-🌸  Completed 0 tasks today           
+🎯  Completed 0 tasks today           
 ✅  Completed 500 tasks so far           
 ⏳  Longest streak is 12 days
 <!-- TODO-IST:END -->
@@ -195,7 +195,7 @@ Python       15 mins       ██▓░░░░░░░░░░░░░░�
     :sparkles: Favorite Tech: cloud, Soc analysis, observability, Multi could integration, OWASP Zap, selenium, service mesh, web assembly, Linux ... <br>
     :notebook: I’m currently learning complex use cases of Kubernetes... 😭  <br>
     :email:	zaidi.zeeshan@outlook.com <br>
-    :art: Portfolio: https://zaidizeeshan.blogspot.com <br>
+    :art: Portfolio: https://about.me/zeeshanzaidi <br>
     :briefcase: LinkedIn: https://linkedin.com/in/zaidizeeshan <br>
   </samp>
 </p>
@@ -211,6 +211,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about like dashboards to visualize and analyse data but you can't see the dashboard 24x7. so ehat is the solution? alerting is the solution...
 - 📫 How to reach me: ...
+🌸
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
