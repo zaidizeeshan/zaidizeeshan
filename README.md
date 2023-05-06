@@ -37,15 +37,15 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 
 🛠️ **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,openstack,openshift,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,py,flask,java&perline=10)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis&perline=10)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,jenkins,githubactions,maven,selenium,docker,kubernetes,ansible&perline=10)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,py,flask,java&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,openstack,openshift&perline=10)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=kafka,regex,prometheus,grafana,sentry&perline=10)](https://skillicons.dev)
-<br />
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis&perline=10)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=postman,nginx&perline=10)](https://skillicons.dev)
 <br />
