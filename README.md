@@ -24,9 +24,14 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
   
 **Talking about Personal Stuffs:**
 
-- 🔥💻 I’m currently working on something cool :wink:;
+- 🔥💻 **I’m currently working on something cool** :wink:;
 - :notebook: I’m currently learning complex use cases of Kubernetes, custom pipeline for hashicorp waypoint. i.e. integrate snyk.io security scan between ci/cd plateform to automating end to end pipeline, fully automated end to end pipeline both for deploying the infrastructure as well as onboarding the services using consul, running several services using aws lambdas for being able to register a lambda service as part of consul connecting them with other service mesh services and argoCD... 😭; 
-- :sparkles: Favorite Tech: A/B testing, Single Pane of Glass for Data Observability which include logs, apm, siem, xdr, rum, distributed traces and synthetics testing, terraform drift detection, Python, Terraform, vault, consul, K8s, Docker, Ansible, Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, datadog, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted, ...;
+- :sparkles: **Favorite Tech:** <p>
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+</p>
+
+A/B testing, Single Pane of Glass for Data Observability which include logs, apm, siem, xdr, rum, distributed traces and synthetics testing, terraform drift detection, Python, Terraform, vault, consul, K8s, Docker, Ansible, Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, datadog, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted, ...;
 - :sparkles: **Previosly Worked on:** <p>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
