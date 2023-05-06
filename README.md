@@ -49,7 +49,10 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 <br />
 [![My Skills](https://skillicons.dev/icons?i=kafka,prometheus,grafana,sentry&perline=10)](https://skillicons.dev)
 
-    <a href="https://www.hackerrank.com/codeperfectplus"><img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" alt="Argo CD"></a>
+<p>
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+</p>
 
 <!--
 https://github.com/tandpfun/skill-icons/blob/main/readme.md
