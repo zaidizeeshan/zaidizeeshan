@@ -34,7 +34,22 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 A/B testing, Single Pane of Glass for Data Observability which include logs, apm, siem, xdr, rum, distributed traces and synthetics testing, terraform drift detection, Python, Terraform, vault, consul, K8s, Docker, Ansible, Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, datadog, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted, ...;
 - :sparkles: **Previosly Worked on:** <p>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SONARQUBE">
     <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++"> 
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++"> 
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">   
 </p>
 
 Python, Terraform enterprise, self managed vault, self managed consul, self managed boundry, K8s, Docker, Ansible, jar deployed on host and in container using nomad. Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted,  ...;
