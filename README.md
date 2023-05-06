@@ -37,10 +37,23 @@ Hi, I'm [Zeeshan Zaidi!](https://zaidizeeshan.blogspot.com/), a passionate self-
 
 🛠️ **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,openstack,openshift&perline=10)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,vue,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,jenkins,maven,selenium,docker,kubernetes,ansible&perline=10)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,py&perline=10)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana,sentry&perline=10)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=10)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=postman,nginx&perline=10)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs&perline=10)](https://skillicons.dev)
+
 <!--
+https://github.com/tandpfun/skill-icons/blob/main/readme.md
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
