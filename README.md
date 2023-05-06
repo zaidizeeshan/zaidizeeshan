@@ -14,8 +14,8 @@
 <br />
 
 <p align="center">
-    🎯 <img src="https://komarev.com/ghpvc/?username=zaidizeeshan" alt="zaidizeeshan"/>
-    <img src="https://wakatime.com/badge/user/4719ba27-7e5d-4a0e-8a46-ec4c3e264034.svg" alt="wakatime"/>
+    <img src="https://komarev.com/ghpvc/?username=zaidizeeshan" alt="zaidizeeshan"/>
+  <!--  <img src="https://wakatime.com/badge/user/4719ba27-7e5d-4a0e-8a46-ec4c3e264034.svg" alt="wakatime"/> -->
 </p>
 
 Welcome to my GitHub profile, where you'll find all the cool things I've been up to as a DevOps engineer. 
