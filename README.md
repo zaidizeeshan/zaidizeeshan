@@ -28,7 +28,7 @@ And speaking of inspiration, my GitHub profile is a testament to my love of all 
 In all seriousness, I love what I do. DevOps may be a bit of a grind sometimes, but there's nothing quite like the feeling of knowing that you've helped make someone's development process just a little bit easier. So if you're looking for a DevOps engineer who's equal parts sarcastic and skilled, you've come to the right place. Feel free to check out my GitHub profile and drop me a line if you want to chat. Let's build something amazing together! <br /> <br />
   <img align="right" alt="GIF" src="https://github.com/zaidizeeshan/zaidizeeshan/blob/main/code.gif?raw=true" width="500" height="320" /> 
   
-**Talking about Personal Stuffs:**
+**Talking about technical stuff:**
 
 - 🔥💻 **I’m currently working on something cool** :wink:;
 - :notebook: I’m currently learning complex use cases of kubernetes, custom pipeline for hashicorp waypoint. i.e. integrate snyk.io security scan between ci/cd plateform to automating end to end pipeline, fully automated end to end pipeline both for deploying the infrastructure as well as onboarding the services using consul, running several services using aws lambda for being able to register a lambda service as part of consul connecting them with other service mesh services and argoCD... 😭; 
@@ -52,7 +52,7 @@ In all seriousness, I love what I do. DevOps may be a bit of a grind sometimes, 
 <!--
 A/B testing, Single Pane of Glass for Data Observability which include logs, apm, siem, xdr, rum, distributed traces and synthetics testing, terraform drift detection, Python, Terraform, vault, consul, K8s, Docker, Ansible, Jenkins, ECS, EKS, Lambda, SonarQube, Apache Jmeter, datadog, Linux, Shell Scripting, Nagios, ELastic Stack(ELK), elasticsearch clustering, KQL, rego, HCL, Sentry self hosted, ...; -->
 
-- :sparkles: **Tech used in my previosly project:** <p>
+- :sparkles: **Previous Project Technologies:** <p>
 
     <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SONARQUBE">
     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="DYNAMO DB">  
@@ -84,7 +84,7 @@ Python, Terraform enterprise, self managed vault, self managed consul, self mana
 - :art: Portfolio: https://zaidizeeshan.blogspot.com <br>
 - 📝[Resume](https://drive.google.com/file/d/1vJdfvdBJyLVAIyyvz4z0UEIsrbihqcxh/view?usp=sharing)
 
-🛠️ **Languages and Tools:**  
+🛠️ **Languages and Tools Techstack:**  
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,py,flask,java,php,nodejs&perline=10)](https://skillicons.dev)
 <br />
