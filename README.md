@@ -89,7 +89,7 @@ Python, Terraform enterprise, self managed vault, self managed consul, self mana
 - 📫 How to reach me: [@techie_zeeshan](https://twitter.com/techie_zeeshan);
 - :email:	zaidi.zeeshan@outlook.com <br>
 - :briefcase: LinkedIn: https://linkedin.com/in/zaidizeeshan <br>
-- :art: Portfolio: https://zaidizeeshan.blogspot.com <br>
+- :art: Portfolio: https://zaidizeeshan.github.io <br>
 - 📝[Resume](https://drive.google.com/file/d/1vJdfvdBJyLVAIyyvz4z0UEIsrbihqcxh/view?usp=sharing)
 
 🛠️ **Languages and Tools Techstack:**  
