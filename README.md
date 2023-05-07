@@ -38,7 +38,7 @@ So if you're looking for a DevOps engineer who's equal parts sarcastic and skill
 **Talking about technical stuff:**
 
 - 🔥💻 I’m currently working on something cool :wink:;
-- :notebook: I’m currently learning complex use cases of kubernetes, custom pipeline for hashicorp waypoint. i.e. integrate snyk.io security scan with Argo CD, fully automated end to end pipeline for onboarding the services for being able to register a lambda service as part of consul connecting them with other service mesh services and argoCD... 😭; 
+- :notebook: I’m currently learning complex use cases of kubernetes, Argo CD, Hashicorp Waypoint and Terraform. i.e. Suppose you have a large, complex Kubernetes cluster with many applications and services deployed across multiple namespaces. You need to make changes to the cluster, such as upgrading the Kubernetes version, adding new nodes, and updating the configuration of existing resources. However, you cannot afford any downtime for your applications and need to ensure that the changes are rolled out gradually and safely.... 😭; 
 - :sparkles: **Favorite Tech:** <p>
     <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" alt="ARGO CD">
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="KUBERNETES">
