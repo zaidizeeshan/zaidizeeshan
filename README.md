@@ -145,6 +145,7 @@ Python       15 mins       ██▓░░░░░░░░░░░░░░�
 <p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidizeeshan&theme=dark" alt="zaidizeeshan" />(#)  -->
 
 <!-- [![](https://github-readme-streak-stats.herokuapp.com/?user=zaidizeeshan&theme=dark)](#)  -->
+[![](https://github-readme-streak-stats.herokuapp.com/?user=zaidizeeshan&theme=dark)](#)
 
 
 
