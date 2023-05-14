@@ -18,9 +18,9 @@
   <img src="https://wakatime.com/badge/user/4719ba27-7e5d-4a0e-8a46-ec4c3e264034.svg" alt="wakatime"/> 
 </p> -->
 
-Welcome to my GitHub profile, where you'll find all the cool things I've been up to as a DevOps and Site Reliability Engineer (SRE). 
+Welcome to my GitHub profile, where you'll find all the cool things I've been up to as a DevOps and Site Reliability Engineer. 
 
-I'm [Zeeshan Zaidi!](https://zaidizeeshan.github.io/), a passionate self-taught DevOps and Site Reliability Engineer 🚀 from India. That's right, I'm the kind of person who loves to tinker with servers, automate deployments, and generally make life easier for developers. <br />
+I'm [Zeeshan Zaidi!](https://zaidizeeshan.github.io/), a passionate self-taught DevOps and Site Reliability Engineer (SRE) 🚀 from India. That's right, I'm the kind of person who loves to tinker with servers, automate deployments, and generally make life easier for developers. <br />
 
 As a DevOps engineer, I get to work with a wide range of technologies and tools, from cloud services and containerization to automation frameworks and monitoring solutions. And you know what? I love it all. There's just something so satisfying about getting everything to work together like a well-oiled machine. <br />
 
@@ -37,7 +37,7 @@ So if you're looking for a DevOps and Site Reliability Engineer who's equal part
   
 **Talking about technical stuff:**
 
-- 🔥💻 I’m currently working on something cool :wink:;
+- 🔥 I’m currently working on something cool :wink:;
 - :notebook: I’m currently learning complex use cases of kubernetes, Argo CD, Hashicorp Waypoint and Terraform. i.e. Suppose you have a large, complex Kubernetes cluster with many applications and services deployed across multiple namespaces. You need to make changes to the cluster, such as upgrading the Kubernetes version, adding new nodes, and updating the configuration of existing resources. However, you cannot afford any downtime for your applications and need to ensure that the changes are rolled out gradually and safely.... 😭; 
 - :sparkles: **Favorite Tech:** <p>
     <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" alt="ARGO CD">
@@ -131,7 +131,7 @@ Python       15 mins       ██▓░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-🚧 **My Todoist Stats:**
+💻🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  1,018 Scripts           
 🎯  Completed 0 tasks today           
