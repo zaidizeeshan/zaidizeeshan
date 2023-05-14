@@ -18,9 +18,9 @@
   <img src="https://wakatime.com/badge/user/4719ba27-7e5d-4a0e-8a46-ec4c3e264034.svg" alt="wakatime"/> 
 </p> -->
 
-Welcome to my GitHub profile, where you'll find all the cool things I've been up to as a DevOps engineer. 
+Welcome to my GitHub profile, where you'll find all the cool things I've been up to as a DevOps and Site Reliability Engineer. 
 
-I'm [Zeeshan Zaidi!](https://zaidizeeshan.github.io/), a passionate self-taught DevOps Engineer 🚀 from India. That's right, I'm the kind of person who loves to tinker with servers, automate deployments, and generally make life easier for developers. <br />
+I'm [Zeeshan Zaidi!](https://zaidizeeshan.github.io/), a passionate self-taught DevOps and Site Reliability Engineer 🚀 from India. That's right, I'm the kind of person who loves to tinker with servers, automate deployments, and generally make life easier for developers. <br />
 
 As a DevOps engineer, I get to work with a wide range of technologies and tools, from cloud services and containerization to automation frameworks and monitoring solutions. And you know what? I love it all. There's just something so satisfying about getting everything to work together like a well-oiled machine. <br />
 
