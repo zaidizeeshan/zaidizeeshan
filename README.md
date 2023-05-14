@@ -18,7 +18,7 @@
   <img src="https://wakatime.com/badge/user/4719ba27-7e5d-4a0e-8a46-ec4c3e264034.svg" alt="wakatime"/> 
 </p> -->
 
-Welcome to my GitHub profile, where you'll find all the cool things I've been up to as a DevOps and Site Reliability Engineer. 
+Welcome to my GitHub profile, where you'll find all the cool things I've been up to as a DevOps and Site Reliability Engineer (SRE). 
 
 I'm [Zeeshan Zaidi!](https://zaidizeeshan.github.io/), a passionate self-taught DevOps and Site Reliability Engineer 🚀 from India. That's right, I'm the kind of person who loves to tinker with servers, automate deployments, and generally make life easier for developers. <br />
 
@@ -32,7 +32,7 @@ And speaking of inspiration, my GitHub profile is a testament to my love of all 
 
 In all seriousness, I love what I do. DevOps may be a bit of a grind sometimes, but there's nothing quite like the feeling of knowing that you've helped make someone's development process just a little bit easier. 
 
-So if you're looking for a DevOps engineer who's equal parts sarcastic and skilled, you've come to the right place. Feel free to check out my GitHub profile and drop me a line if you want to chat. Let's build something amazing together! <br />
+So if you're looking for a DevOps and Site Reliability Engineer who's equal parts sarcastic and skilled, you've come to the right place. Feel free to check out my GitHub profile and drop me a line if you want to chat. Let's build something amazing together! <br />
   <img align="right" alt="GIF" src="https://github.com/zaidizeeshan/zaidizeeshan/blob/main/code.gif?raw=true" width="500" height="320" /> 
   
 **Talking about technical stuff:**
