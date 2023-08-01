@@ -3,13 +3,13 @@
 
 <!-- [![](https://github.com/zaidizeeshan/zaidizeeshan/blob/main/dino.gif)](#)-->
 ### Oh, hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/techie_zeeshan">
+<!-- <a href="https://twitter.com/techie_zeeshan">
   <img align="left" alt="Zeeshan Zaidi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/zaidizeeshan/">
   <img align="left" alt="Zeeshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
+</a> 
+-->
 
 <br />
  <!-- 
